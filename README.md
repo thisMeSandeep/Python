@@ -15,7 +15,6 @@ This repository currently covers the following areas:
 
 The code is organized into directories based on the concepts they demonstrate.
 
-**Generated:** 10/27/2025, 10:03:09 AM
 **Root Path:** `c:\Users\HP\Desktop\python`
 
 ```
